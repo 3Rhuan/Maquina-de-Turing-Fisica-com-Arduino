@@ -12,6 +12,16 @@ Este projeto adapta o conceito da Máquina de Turing para o mundo físico, utili
 
 ## Componentes Utilizados
 
+- 15 Jumpers macho/macho  
+- 8 LEDs 5mm  
+- 8 Resistores de 220Ω  
+- 1 Buzzer passivo  
+- 1 Resistor de 120Ω  
+- 1 Chave tátil de 2 terminais  
+- 1 Resistor de 10KΩ  
+- 1 Potenciômetro de 10KΩ  
+- 1 Display OLED 0.96 (SSD1306)
+
 A lista completa de componentes empregados neste projeto pode ser consultada no site do fabricante do kit:  
 [Kit Maker 5 - KitMakers](https://www.kitmakers.com.br/kit-maker-5.html)
 
@@ -34,7 +44,9 @@ O sistema opera em dois modos:
 
 ## Demonstração
 
-![Exemplo de montagem](./imagem/image.png)  
+![Exemplo de montagem](./imagem/image.png)
+
+[Link para visualização no TinkerCad](https://www.tinkercad.com/things/aTGEXR2j7vL-mighty-leelo)  
 
 ### Vídeo curto do projeto em funcionamento:  
 [Assista aqui](https://youtube.com/shorts/ZrOyOsG5SV4?feature=share)
